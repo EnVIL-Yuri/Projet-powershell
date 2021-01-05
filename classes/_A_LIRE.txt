@@ -1,0 +1,11 @@
+============================================================================
+dans le fichier XLS :
+- Supprimer les 3 premières lignes pour positionner les noms des colonnes  sur la première ligne
+- Remplacer les noms de colonnes par : Nom, Prenom, Classe et Naissance
+- Pour chaque élève, remplacer les caractères accentués par des caractères équivalents non accentués !!!
+
+> C:\sauvegarde_mysql\Create_ADUser_NDLP.ps1 -xls C:\sauvegarde_mysql\listeT1SIO_test.xls
+
+- Après chaque exécution de classe, supprimer le fichier "convert.csv"
+
+============================================================================
